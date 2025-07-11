@@ -1,0 +1,15 @@
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\bin\Debug\net8.0\LibraryC#.exe
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\bin\Debug\net8.0\LibraryC#.deps.json
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\bin\Debug\net8.0\LibraryC#.runtimeconfig.json
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\bin\Debug\net8.0\LibraryC#.dll
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\bin\Debug\net8.0\LibraryC#.pdb
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\obj\Debug\net8.0\LibraryC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\obj\Debug\net8.0\LibraryC#.AssemblyInfoInputs.cache
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\obj\Debug\net8.0\LibraryC#.AssemblyInfo.cs
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\obj\Debug\net8.0\LibraryC#.csproj.CoreCompileInputs.cache
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\obj\Debug\net8.0\LibraryC#.sourcelink.json
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\obj\Debug\net8.0\LibraryC#.dll
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\obj\Debug\net8.0\refint\LibraryC#.dll
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\obj\Debug\net8.0\LibraryC#.pdb
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\obj\Debug\net8.0\LibraryC#.genruntimeconfig.cache
+C:\Users\minet\Desktop\Code\I hate life but life hate's me more\My soul and tears\repos\LibraryC#\obj\Debug\net8.0\ref\LibraryC#.dll
